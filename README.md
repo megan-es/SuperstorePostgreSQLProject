@@ -6,3 +6,5 @@ Features
 
 Database Schema Design: A carefully designed schema for the 'people' and 'orders' tables, ensuring data integrity, relationships, and optimal querying capabilities.
 Advanced SQL Queries: A collection of SQL scripts that extract insights from the data. Examples include identifying regional trends, discovering the top customers, and many more.
+
+data source: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
